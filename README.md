@@ -7,8 +7,7 @@ Frontend Developer
 A passionate Frontend Developer and recent Computer Science graduate from the class of 2022. My coding journey revolves around crafting compelling and user-friendly web experiences. 🌐 Always on the lookout for the latest technologies and frameworks, I'm committed to staying at the forefront of web development. Collaboration is key, and I welcome opportunities to work with like-minded individuals who share a passion for innovation. 📫 Feel free to explore my repositories and join me on this coding journey. Let's build something amazing together! 💡💻
 
 * 🌍  I'm based in PortSaid , Egypt
-* 🖥️  See my portfolio at [working on in it here is my GitHub Profile Instead](http://github.com/MahmoudMohsen0)
-* ✉️  You can contact me at [mahmoud.mohsen120@gmail.com](mailto:mahmoud.mohsen120@gmail.com)
+* ✉️  You can contact me at [mahmoud.mohsen120@gmail.com](mailto:mahmoud.mohsen1209@gmail.com)
 * 🚀  I'm currently working on [who-will-win-the-million Quiz App](http://github.com/MahmoudMohsen0/who-will-win-the-million)
 * 🧠  I'm learning React
 
