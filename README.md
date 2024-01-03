@@ -6,7 +6,7 @@ Frontend Developer
 
 I like making things, I'm a fairly curious person. A passionate Frontend Developer and recent Computer Science graduate from the class of 2022. My coding journey revolves around crafting compelling and user-friendly web experiences. 🌐 Always on the lookout for the latest technologies and frameworks, I'm committed to staying at the forefront of web development. 
 
-* ✉️  You can contact me at [mahmoud.mohsen1209@gmail.com](mailto:mahmoud.mohsen1209@gmail.com)
+* ✉️  You can contact me at [mahmoud.mohsen.developer@gmail.com](mailto:mahmoud.mohsen.developer@gmail.com)
 * 🚀  I'm currently working on [who-will-win-the-million Quiz App](http://github.com/MahmoudMohsen0/who-will-win-the-million)
 * 🧠  I'm learning React
 
