@@ -86,25 +86,4 @@ I like making things, I'm a fairly curious person. A passionate Frontend Develop
 <a href="https://github.com/mahmoud-mohsen-dev" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mohsen-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/mahmoud-mohsen-dev/who-will-win-the-million" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-mohsen-dev&repo=who-will-win-the-million&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" />
-  </a>
-  
-  <a href="https://github.com/mahmoud-mohsen-dev/social-media-app" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-mohsen-dev&repo=social-media-app&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" />
-  </a>
-</div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/mahmoud-mohsen-dev/simple-e-commerce-website" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-mohsen-dev&repo=simple-e-commerce-website&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/mahmoud-mohsen-dev/Currency-Calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud-mohsen-dev&repo=Currency-Calculator&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" />
-  </a>
 </div>
