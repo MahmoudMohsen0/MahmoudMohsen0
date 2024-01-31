@@ -14,7 +14,7 @@ I like making things, I'm a fairly curious person. A passionate Frontend Develop
 ### Skills
 
 
-<p align="left">
+<p align="left" style='display:flex; justify-content: space-between;'>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
