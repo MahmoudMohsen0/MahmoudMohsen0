@@ -9,7 +9,6 @@ I like making things, I'm a fairly curious person. A passionate Frontend Develop
 
 * 🧑‍💻  My portfolio [mahmoud-mohsen.vercel.app](https://mahmoud-mohsen.vercel.app/)
 * ✉️  You can contact me at [mahmoud.mohsen.developer@gmail.com](mailto:mahmoud.mohsen.developer@gmail.com)
-* 🧠  I'm learning React
 
 ### Skills
 
