@@ -1,88 +1,39 @@
-Hi 👋 My name is Mahmoud Mohsen
-===============================
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
 
-Frontend Developer
-------------------
+<h1 align="center">
+  Welcome to <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/">Mahmoud Mohsen</a>'s profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-I like making things, I'm a fairly curious person. A passionate Frontend Developer and recent Computer Science graduate from the class of 2022. My coding journey revolves around crafting compelling and user-friendly web experiences. 🌐 Always on the lookout for the latest technologies and frameworks, I'm committed to staying at the forefront of web development. 
+<h2 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=28"></a>
+</h2>
 
+-   👋 My Name is Mahmoud Mohsen, I'm from Egypt.
+-   🏗️ I like creating things.
+-   💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
+-   📫 How to reach me...
 
-* 🧑‍💻  My portfolio [mahmoud-mohsen.vercel.app](https://mahmoud-mohsen.vercel.app/)
-* ✉️  You can contact me at [mahmoud.mohsen.developer@gmail.com](mailto:mahmoud.mohsen.developer@gmail.com)
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-### Skills
+### Connect with Me :
 
+<a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mohsen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<p align="left" style='display:flex; justify-content: space-between;'>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
+### 🛠 &nbsp;My Skills
 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,ts,figma,postman,vite,vscode)](https://skillicons.dev)
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
+<br>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mohsen-dev)
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
+<br>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
+### I’m currently learning :
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-</p>
-
-
-### Socials
-
-<p align="left">  
-  <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture>
-  </a>
-  
-  <a href="https://twitter.com/mahmoud_codes" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-
-  <a href="https://www.codepen.io/mody120" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-</p>
-
-### Badges
-
-<a href="https://github.com/mahmoud-mohsen-dev" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mohsen-dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
