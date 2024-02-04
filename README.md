@@ -9,8 +9,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=28"></a>
 </h2>
 
--   🏗️ I like creating things.
+-   👋 My Name is Mahmoud Mohsen, I'm from Egypt.
 -   💻 Computer Science graduate discovered my passion for web development.
+-   🏗️ I like creating things.
 
 ### 💻 What I Do:
 
