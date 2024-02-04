@@ -18,12 +18,12 @@
 
 ### Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Mohsen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohsen-dev/)&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-cf5754?style=for-the-badge&logo=minutemailer)](emailto:mahmoud-mohsen-developer@gmail.com)
+<a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/"><img src="https://img.shields.io/badge/-LinkedIn%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:mahmoud-mohsen-developer@gmail.com"><img src="https://img.shields.io/badge/Email-cf5754?style=for-the-badge&logo=minutemailer"/></a>
 
 ### See My Work :
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c7989?style=for-the-badge&logo=marvelapp)](https://www.linkedin.com/in/mahmoud-mohsen-dev/)
+<a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/"><img src="https://img.shields.io/badge/Portfolio-6c7989?style=for-the-badge&logo=marvelapp"/></a>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
