@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
 
 <h1 align="center">
-  Welcome to <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/">Mahmoud Mohsen</a>'s profile!
+  Welcome to <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/" target='_blank'>Mahmoud Mohsen</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
