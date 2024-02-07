@@ -18,7 +18,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/"><img src="https://img.shields.io/badge/-LinkedIn%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:mahmoud-mohsen-developer@gmail.com"><img src="https://img.shields.io/badge/Email-cf5754?style=for-the-badge&logo=minutemailer"/></a>
+<a href="mailto:mahmoud.mohsen.developer@gmail.com"><img src="https://img.shields.io/badge/Email-cf5754?style=for-the-badge&logo=minutemailer"/></a>
 
 ### See My Work :
 
