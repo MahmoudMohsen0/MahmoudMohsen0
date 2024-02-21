@@ -40,4 +40,6 @@
 
 ### I’m currently learning :
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp;&nbsp;
+
+![](https://komarev.com/ghpvc/?username=mahmoud-mohsen-dev)
