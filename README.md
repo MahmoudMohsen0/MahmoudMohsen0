@@ -35,10 +35,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mohsen-dev)
 
+![](https://komarev.com/ghpvc/?username=mahmoud-mohsen-dev&&style=for-the-badge&base=20)
+
 <br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
+<hr />
 ### I’m currently learning :
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;
-![](https://komarev.com/ghpvc/?username=mahmoud-mohsen-dev&&style=for-the-badge&base=20)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
