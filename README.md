@@ -40,6 +40,5 @@
 
 ### I’m currently learning :
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp;&nbsp;
-
-![](https://komarev.com/ghpvc/?username=mahmoud-mohsen-dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=mahmoud-mohsen-dev&&style=for-the-badge&base=20)
