@@ -8,8 +8,11 @@
 </h2>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
+
 -   👋 My Name is Mahmoud Mohsen, I'm from Egypt.
+
 -   💻 Computer Science graduate discovered my passion for web development.
+  
 -   🏗️ I like creating things.
 
 
