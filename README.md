@@ -7,16 +7,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=28"></a>
 </h2>
 
-<span>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
-</span>
-<span>
-  <ul>
-    <li>👋 My Name is Mahmoud Mohsen, I'm from Egypt.</li>
-    <li>💻 Computer Science graduate discovered my passion for web development.</li>
-    <li>🏗️ I like creating things.</li>
-  </ul>
-</span>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
+-   👋 My Name is Mahmoud Mohsen, I'm from Egypt.
+-   💻 Computer Science graduate discovered my passion for web development.
+-   🏗️ I like creating things.
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
