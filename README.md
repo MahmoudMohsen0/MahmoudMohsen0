@@ -8,15 +8,16 @@
 </h2>
 
 <span>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
+</span>
+<span>
   <ul>
-    <li>👋 My Name is Mahmoud Mohsen, I'm from Egypt.</li>\
+    <li>👋 My Name is Mahmoud Mohsen, I'm from Egypt.</li>
     <li>💻 Computer Science graduate discovered my passion for web development.</li>
     <li>🏗️ I like creating things.</li>
   </ul>
 </span>
-<span>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
-</span>
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
