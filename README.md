@@ -1,5 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
-
 <h1 align="center">
   Welcome to <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/" target='_blank'>Mahmoud Mohsen</a>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -12,6 +10,8 @@
 -   👋 My Name is Mahmoud Mohsen, I'm from Egypt.
 -   💻 Computer Science graduate discovered my passion for web development.
 -   🏗️ I like creating things.
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250"  >
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
