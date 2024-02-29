@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to <a href="https://www.linkedin.com/in/mahmoud-mohsen-dev/" target='_blank'>Mahmoud Mohsen</a>'s profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
