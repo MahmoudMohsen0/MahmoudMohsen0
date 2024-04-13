@@ -31,7 +31,7 @@
 
 ### 🛠 &nbsp;My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,git,github,ts,figma,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,tailwind,git,github,ts,figma,postman,linux,notion,vercel,vite,vscode)](https://skillicons.dev)
 
 <br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
@@ -43,4 +43,4 @@
 
 ### I’m currently learning :
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
